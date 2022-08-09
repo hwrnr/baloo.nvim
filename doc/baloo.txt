@@ -1,0 +1,14 @@
+================================================================================
+                                                                *baloo.nvim*
+
+baloo.nvim is a plugin for using baloo file indexer for search.
+Development is in progress.
+
+To find out more:
+https://github.com/hwrnr/baloo.nvim
+
+  :h BalooSearch
+
+BalooSearch                                                        *BalooSearch*
+    Runs a query search in current nvim working directory using baloo.
+================================================================================
